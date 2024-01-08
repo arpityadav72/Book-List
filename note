@@ -1,0 +1,44 @@
+// for ,while
+//forEach
+let newarr = [1,2,3,4,5,6,7,8]
+
+//I want a new array with doubled value
+
+//For Loop
+// let mynewarr = []
+// for(let i=0;i<newarr.length;i++){
+//     let num;
+//     if(newarr[i]%2==0)
+//     mynewarr.push(newarr[i])
+// }
+// console.log(mynewarr)
+
+//ForEach
+// let mynewarr=[]
+// newarr.forEach(item => mynewarr.push(item*2))
+// newarr.forEach(function(item){
+//     console.log(item*2)
+// })
+// console.log(mynewarr)
+//  newarr.map(item => item*2).forEach(item => console.log(item*2)).forEach(item => console.log("ii"))
+
+// const myarr = newarr.filter(item => item%2==0)
+// console.log(myarr)
+
+// const found = newarr.some(item => item==8)
+// console.log(found)
+
+
+// for(let i=0;i<10;i++){
+//     console.log(i)
+//     if(i==4)
+//     break;
+// }
+
+// [1,2,3,4,5,6].forEach(item =>{
+//     // if(item==3)
+//     break;
+// })
+
+
+
